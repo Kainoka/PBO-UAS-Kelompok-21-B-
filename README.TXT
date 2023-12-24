@@ -23,4 +23,8 @@ Pesan: Kami membuat hampir 40% dari semua sumber Source Code adalah buatan kami 
 sisa 60% adalah sumber Source Code yang berasal dari berbagai sumber, inspirasi, maupun tutorial.
 Meskipun kami mengambil Source Code dari hal-hal tersebut, tapi masih ada Error, sehingga kami
 mengubah sedikit, sebagian, ataupun kebanyakan dari isi Source Code tersebut agar dapat berjalan tanpa Error.
+
 Demikian pesan yang telah kami buat, terima kasih atas perhatiannya.
+
+*** Info ***
+Dalam Repository, terdapat PDF bernama "Project UAS K-21 (B).pdf
