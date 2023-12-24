@@ -27,4 +27,4 @@ mengubah sedikit, sebagian, ataupun kebanyakan dari isi Source Code tersebut aga
 Demikian pesan yang telah kami buat, terima kasih atas perhatiannya.
 
 *** Info ***
-Dalam Repository, terdapat PDF bernama "Project UAS K-21 (B).pdf
+Dalam Repository, terdapat PDF bernama "Project UAS K-21 (B).pdf".
